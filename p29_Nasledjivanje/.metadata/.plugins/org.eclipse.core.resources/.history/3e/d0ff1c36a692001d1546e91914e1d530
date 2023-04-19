@@ -1,0 +1,13 @@
+package UUP;
+
+public class Krug {
+	
+	double poluprecnik;
+
+	public Krug(double poluprecnik) {
+		this.poluprecnik = poluprecnik;
+	}
+
+	
+	
+}

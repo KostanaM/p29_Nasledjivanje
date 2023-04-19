@@ -1,0 +1,9 @@
+package UUP;
+
+public class Kvadrat extends GeometrijskaFigura {
+
+	double stranica;
+	
+	
+	
+}

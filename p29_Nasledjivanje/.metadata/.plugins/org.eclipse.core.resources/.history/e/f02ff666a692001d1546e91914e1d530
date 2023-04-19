@@ -1,0 +1,8 @@
+package UUP;
+
+public class Pravougaonik {
+	
+	double duzina;
+	double sirina;
+
+}

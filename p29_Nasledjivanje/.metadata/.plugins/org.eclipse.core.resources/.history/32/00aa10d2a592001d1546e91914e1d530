@@ -1,0 +1,6 @@
+package UUP;
+
+public abstract class Oblik {
+	protected abstract void crtaj();
+	
+	}

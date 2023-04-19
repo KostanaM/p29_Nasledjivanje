@@ -1,0 +1,40 @@
+package UUP;
+
+public class Taksista {
+	
+private String ImeKompanije;
+private String Ime;
+
+
+public void Taksista() {
+	
+}
+
+public void Taksista(String imeKompanije, String ime) {
+	ImeKompanije = imeKompanije;
+	Ime = ime;
+}
+
+public void setImeKompanije(String imeKompanije) {
+	ImeKompanije = imeKompanije;
+}
+
+public String getImeKompanije() {
+	return ImeKompanije;
+}
+
+public void setIme(String ime) {
+	Ime = ime;
+}
+
+public String getIme() {
+	return Ime;
+}
+
+
+
+	
+	
+	
+	
+}

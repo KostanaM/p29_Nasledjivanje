@@ -1,0 +1,15 @@
+package UUP;
+
+public class Krug extends Oblik {
+	
+	double poluprecnik;
+
+	public Krug(double poluprecnik) {
+		this.poluprecnik = poluprecnik;
+	}
+	
+	public double uzmiPovrsinu() { 
+			return 4 * poluprecnik; 
+		} 
+	
+}

@@ -1,0 +1,11 @@
+package UUP;
+
+public class Taksista {
+	
+private String ImeKompanije;
+private String Ime;
+	
+	
+	
+	
+}

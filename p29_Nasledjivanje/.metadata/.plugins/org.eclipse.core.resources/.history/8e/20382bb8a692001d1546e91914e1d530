@@ -1,0 +1,17 @@
+package UUP;
+
+public class Krug extends Oblik {
+	
+	double poluprecnik;
+
+	public Krug(double poluprecnik) {
+		if(stranica > 0.0)
+		this.poluprecnik = poluprecnik;
+		else 
+			System.out.println("Greška: Vrednost podatka stranica mora biti veća od 0."); 
+		}
+	public double uzmiPovrsinu() { 
+			return 4 * stranica; 
+		} 
+	
+}

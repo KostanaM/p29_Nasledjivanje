@@ -1,0 +1,10 @@
+package UUP;
+
+public class Pas {
+private String ime;
+private String rasa;
+	
+	
+	
+	
+}
